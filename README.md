@@ -24,6 +24,7 @@ Required skills and/or background
 --
 
 - Having a github user with recent activity
+- Having contributed to open source projects
 - Having a stackoverflow profile with more than 100 points
 
 <h1 align="center"><a href="mailto:jobs@sophilabs.com">Apply Now</a></h1>
