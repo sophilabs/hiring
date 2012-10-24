@@ -1,5 +1,5 @@
-We are hiring!
-==============
+Sophilabs is hiring!
+====================
 
 We are a special IT services company: a team of lean, proactive, passionate and perfectionists with a valuable experience building web and mobile applications.<br>
 Our main motivation is to improve people’s life by creating simple and elegant software, building on top of open source cutting edge technologies on python and node.js.<br>
