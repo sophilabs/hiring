@@ -34,7 +34,7 @@ About
 =====
 
 Open source stuff: [@sophilabs](/sophilabs)<br>
-Know the team: [@cinemascop89](/cinemascop89), [@krbnr](/krbnr), [@martinbc](/martinbc), [@mprunell](/mprunell), [@pricco](/pricco) and [@ssassi](/ssassi) - [and we are pretty too](http://sophilabs.com/about)<br>
+Know the team: [We are pretty too](http://sophilabs.com/team)<br>
 Says hello at hi@sophilabs.com
 
 > +598 2628 4108<br>
