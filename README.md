@@ -39,6 +39,6 @@ Says hello at hi@sophilabs.com
 
 > +598 2628 4108<br>
 > We are in EST+1<br>
-> Marco Bruto 1504<br> 
+> Dr. Prudencio de Pena 2517<br> 
 > 11600 Montevideo<br>
 > Uruguay<br>
