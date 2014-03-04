@@ -37,7 +37,7 @@ Open source stuff: [@sophilabs](/sophilabs)<br>
 Know the team: [We are pretty too](http://sophilabs.com/team)<br>
 Says hello at hi@sophilabs.com
 
-> +598 2628 4108<br>
+> +598 2705 4739<br>
 > We are in EST+1<br>
 > Dr. Prudencio de Pena 2517<br> 
 > 11600 Montevideo<br>
