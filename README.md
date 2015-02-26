@@ -1,3 +1,5 @@
+![Team](http://sophilabs.com/static/pages/img/site_home_01.jpg)
+
 Sophilabs is hiring!
 ====================
 
@@ -9,13 +11,13 @@ We are looking for ...
 ----------------------
 
 A **passionate and highly detail oriented developer** who wants to join a team of **happy geeks**. <br>
-If you have a solid background on Web Development and want to create simple and elegant software using Python please send us your resume, we would love to know you.<br>
+If you have a solid background on Web Development and want to create simple and elegant software using Python or Node please send us your resume, we would love to know you.<br>
 We offer challenging projects, an excellent work environment and the opportunity to learn amazing open source state-of-the-art technologies.
 
 
 Required skills and/or background
 ---------------------------------
-- Linux user
+- Unix
 - Python or Node.js skills
 - Fluent in HTML & CSS
 - Open Source enthusiast!
@@ -27,7 +29,7 @@ Required skills and/or background
 - Having contributed to open source projects
 - Having a stackoverflow profile with more than 100 points
 
-<h1 align="center"><a href="mailto:jobs@sophilabs.com">Apply Now</a></h1>
+<h1 align="center"><a href="mailto:jobs@sophilabs.co">Apply Now</a></h1>
 ***
 
 About
@@ -35,7 +37,7 @@ About
 
 Open source stuff: [@sophilabs](/sophilabs)<br>
 Know the team: [We are pretty too](http://sophilabs.com/team)<br>
-Says hello at hi@sophilabs.com
+Says hello at hi@sophilabs.co
 
 > +598 2705 4739<br>
 > We are in EST+1<br>
