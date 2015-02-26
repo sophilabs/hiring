@@ -32,7 +32,7 @@ Required skills and/or background
 About
 =====
 
-Open source stuff: [@sophilabs](/sophilabs)<br>
+Open source stuff: [@sophilabs](http://github.com/sophilabs)<br>
 Know the team: [We are pretty too](http://sophilabs.com/team)<br>
 Says hello at hi@sophilabs.co
 
