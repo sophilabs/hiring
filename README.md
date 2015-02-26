@@ -1,5 +1,3 @@
-![Team](https://c1.staticflickr.com/9/8622/15783298853_e2387a0dc8_k.jpg)
-
 Sophilabs is hiring!
 ====================
 
