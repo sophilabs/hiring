@@ -3,9 +3,8 @@
 Sophilabs is hiring!
 ====================
 
-We are a special IT services company: a team of lean, proactive, passionate and perfectionists with a valuable experience building web and mobile applications.<br>
-Our main motivation is to improve people’s life by creating simple and elegant software, building on top of open source cutting edge technologies on python and node.js.<br>
-We are currently creating beautiful products for companies on Sweden, United Kingdom and United States.
+Sophilabs is a software development shop formed by developers who love building web and mobile applications on top of python, django and node.js.
+They are currently creating beautiful products for companies in Sweden, United Kingdom and United States.
 
 We are looking for ...
 ----------------------
