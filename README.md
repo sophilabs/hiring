@@ -2,14 +2,14 @@ Sophilabs is hiring!
 ====================
 
 Sophilabs is a software development shop formed by developers who love building web and mobile applications on top of python, django and node.js.
-They are currently creating beautiful products for companies in Sweden, United Kingdom and United States.
+They are currently creating beautiful products for companies in United States, United Kingdom and Sweden.
 
 We are looking for ...
 ----------------------
 
 A **passionate and highly detail oriented developer** who wants to join a team of **happy geeks**. <br>
 If you have a solid background on Web Development and want to create simple and elegant software using Python or Node please send us your resume, we would love to know you.<br>
-We offer challenging projects, an excellent work environment and the opportunity to learn amazing open source state-of-the-art technologies.
+We offer challenging projects, an excellent work environment, competitive compensation and the opportunity to learn amazing open source state-of-the-art technologies.
 
 
 Required skills and/or background
@@ -33,8 +33,8 @@ About
 =====
 
 Open source stuff: [@sophilabs](http://github.com/sophilabs)<br>
-Know the team: [We are pretty too](http://sophilabs.com/team)<br>
-Says hello at hi@sophilabs.co
+Know the team: [We are pretty too](http://sophilabs.co/team)<br>
+Say hello at hi@sophilabs.co
 
 > +598 2705 4739<br>
 > We are in EST+1<br>
