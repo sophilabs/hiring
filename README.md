@@ -1,6 +1,10 @@
 Sophilabs is hiring!
 ====================
 
+<p align="center">
+  <img src="https://d2wlcd8my7k9h4.cloudfront.net/static/figures/hello-sophilaber.jpg">
+</p>
+
 Sophilabs is a software development shop formed by developers who love building web and mobile applications on top of python, django and node.js.
 They are currently creating beautiful products for companies in United States, United Kingdom and Sweden.
 
@@ -26,8 +30,12 @@ Required skills and/or background
 - Having contributed to open source projects
 - Having a stackoverflow profile with more than 100 points
 
-<h1 align="center"><a href="mailto:jobs@sophilabs.co">Apply Now</a></h1>
-***
+<p align="center">
+  <img src="https://d2wlcd8my7k9h4.cloudfront.net/static/figures/goodbye.jpg">
+</p>
+<h1 align="center">
+  <a href="mailto:jobs@sophilabs.co">Apply Now</a>
+</h1>
 
 About
 =====
